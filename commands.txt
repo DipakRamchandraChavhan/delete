@@ -1,0 +1,15 @@
+git init
+git status
+git add .
+git commit -m "Message"
+git log
+git remote add origin "origin name"
+ssh key generation
+git push -u origin master
+git pull orogin master
+git diff filename.txt
+git diff --staged filename.txt
+git reset filename.txt                ...To unstage the file
+git checkout filename.txt             ...To rollback changes in file
+git checkout .
+
