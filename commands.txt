@@ -1,6 +1,7 @@
 git init
 git status
-git add .
+git add .			      ...Stage new or modified files
+git add -A                            ...Stage All files
 git commit -m "Message"
 git log
 git remote add origin "origin name"
@@ -12,4 +13,5 @@ git diff --staged filename.txt
 git reset filename.txt                ...To unstage the file
 git checkout filename.txt             ...To rollback changes in file
 git checkout .
+
 
