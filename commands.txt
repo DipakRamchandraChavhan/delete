@@ -16,3 +16,6 @@ git checkout .
 git clone URL                         ...Create new folder
 git clone URL .                       ...Doesnt create new folder
 touch .gitignore                      ...Create git ignore file
+vim .gitignore                        ...Open file with vim
+notepad .gitignore                    ...Open file with notepad
+
