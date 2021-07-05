@@ -13,5 +13,6 @@ git diff --staged filename.txt
 git reset filename.txt                ...To unstage the file
 git checkout filename.txt             ...To rollback changes in file
 git checkout .
-
-
+git clone URL                         ...Create new folder
+git clone URL .                       ...Doesnt create new folder
+touch .gitignore                      ...Create git ignore file
