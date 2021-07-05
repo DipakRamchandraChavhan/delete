@@ -23,3 +23,5 @@ git rm --cached filename              ...untrack file to ignore
 git branch branch_name             
 git checkout branch_name              ...change the branch
 git merge branch_name
+git branch -d branch_name             ...delete a branch
+git push origin --delete branch name
