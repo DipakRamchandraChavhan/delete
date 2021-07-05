@@ -18,5 +18,7 @@ git clone URL .                       ...Doesnt create new folder
 touch .gitignore                      ...Create git ignore file
 vim .gitignore                        ...Open file with vim
 notepad .gitignore                    ...Open file with notepad
+ls -la                                ... list files including hidden
+git rm --cached filename              ...untrack file to ignore
 
 
