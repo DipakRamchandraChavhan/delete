@@ -22,3 +22,4 @@ ls -la                                ... list files including hidden
 git rm --cached filename              ...untrack file to ignore
 git branch branch_name             
 git checkout branch_name              ...change the branch
+git merge branch_name
