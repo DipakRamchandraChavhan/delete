@@ -1,4 +1,6 @@
-1.eat
-2.code
-3.sleep
-4.repeat
+do{
+	1.eat
+	2.code
+	3.sleep
+	4.repeat
+   }while(sun==True);
